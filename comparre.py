@@ -7,3 +7,4 @@ if q > j:
     print (q, "is more than" ,j, "by" ,p)
 else:
     print (j, "is more than ",q, " by ",r)
+exit()
