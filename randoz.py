@@ -5,4 +5,4 @@ def randomize (randnum):
     global finalRan
     finalRan = randnum * rd
     intRan = int(finalRan)
-    print (intRan)
+    return intRan
